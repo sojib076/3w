@@ -1,0 +1,41 @@
+.notice{
+    background-color: #9b1fe9;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px 0;
+    font-size: 14px;
+    color:white;
+    height: 72px;
+
+}
+.coustom{
+ background-color: #EEF2FE;
+ height: 100vh;
+} 
+.h1-c{
+color: #9b1fe9;
+}
+.p-c{
+color: gray;
+width: 60%;
+}
+.info{
+    background-color: white;
+   
+    margin-top: 10px ;
+
+}
+.sojib{
+    color: gray;
+    font-size: 14px;
+    margin-top: 10px;
+    padding: 10px;
+}
+.checkbox{
+    margin-top: 10px;
+    margin-left: 10px;
+    height: 100px;
+    width: 50%;
+    background-color: gray;
+}
